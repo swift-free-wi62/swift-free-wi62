@@ -1,4 +1,4 @@
-
+KRNL Executor — #1 roblox executor with safe and undetected auto-execute and infinite scripts for 2026 KRNL is a safe and undetected Roblox executor that provides a seamless experience with auto-execute, infinite scripts, and regular updates, ensuring you stay ahead of the competition without the risk of getting banned.
 
 
 ---
